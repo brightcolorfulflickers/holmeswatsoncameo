@@ -1,10 +1,10 @@
 # holmeswatsoncameo
-An electronic Holmes &lt;3 Watson cameo
+An electronic Holmes &lt;3 Watson cameo.
 
 ![Holmes <3 Watson Necklace](https://github.com/brightcolorfulflickers/holmeswatsoncameo/blob/master/photos/necklace.jpg)
 
 ## Overview
-I made this steampunky-ish necklace to celebrate my favorite Victorian characters, Holmes and Watson. I totally ship them, as does this necklace. It's inspired by [this Adafruit tutorial](https://learn.adafruit.com/steampunk-cameo-necklace/overview), but I modified it heavily. Full instructions are below.
+I made this steampunk-ish necklace to celebrate my favorite Victorian characters, Holmes and Watson. I totally ship them, as does this necklace. It's inspired by [this Adafruit tutorial](https://learn.adafruit.com/steampunk-cameo-necklace/overview), but I modified it heavily. Full instructions are below.
 
 ## Tools Required
 
@@ -46,9 +46,9 @@ Before you solder anything, test your display. Install the u8glib library. Test 
 
 ## Instructions
 
-The Adafruit tutorial linked above gives a good overview, but there are some deviations to make. Read that through without doing anything yet. Also read the [LiPo backpack tutorial](https://learn.adafruit.com/adafruit-pro-trinket-lipoly-slash-liion-backpack).
+The Adafruit tutorial linked above gives a good overview, but there are some slight deviations. Read that through without doing anything yet. Also read the [LiPo backpack tutorial](https://learn.adafruit.com/adafruit-pro-trinket-lipoly-slash-liion-backpack).
 
-Follow the LiPo backpack tutorial, with some minor change. You will need to also solder the ground wire for the display to the ground pin where the pins are, which is tricky. Also add heat shrink to the slide switch pins. You will not be soldering the battery wires directly to the board as they do in the original Adafruit cameo tutorial. Just plug in the battery with a JST extension cord.
+Follow the LiPo backpack tutorial, with some minor changes. You will need to also solder the ground wire for the display to the ground pin where the pins are, which is tricky. Also add heat shrink to the slide switch pins. You will not be soldering the battery wires directly to the board as they do in the original Adafruit cameo tutorial. Just plug in the battery with a JST extension cord.
 
 Desolder the header pins from the OLED display. I have found the easiest way to do this is to place the board in a vice, flow the solder, and pull the pin out with pliers from the other side. Once you remove all the pins, clean up the solder with a solder sucker/solder wick. I like to flow the solder with the iron from one side of the board and vacuum it up from the other.
 
@@ -60,7 +60,7 @@ Apply hot glue as needed to wires for strain relief. You can hot glue the back o
 
 Print out the felt pattern.svg on paper and cut it out. Place in the setting. Make sure it works well or adjust as needed. Once you're satisfied, laser cut the felt using the svg provided. Alternately, print it out, trace it on the backing, and cut by hand.
 
-Place the felt in the setting but don't remove the backing yet. Place the OLED so that you get an idea of how to center the screen, then remove. Now remove the backing and stick the felt to the setting. Once again, see how to place the display. Then add metal-glass glue to the corners of the OLED screen and place it. Hold it firmly for a minute until it sets.
+Place the felt in the setting but don't remove the backing yet. Place the OLED so that you get an idea of how to center the screen, then remove. Now remove the backing and stick the felt to the setting. Once again, see how to place the display. Then add metal-glass glue to the corners of the OLED screen and place it. Hold it firmly for a minute until it sets. Let it dry for a few hours.
 
 Attach the jump ring to the setting and the large, textured ring.
 
